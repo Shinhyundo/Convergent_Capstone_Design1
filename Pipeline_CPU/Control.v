@@ -1,7 +1,6 @@
 // Control Unit
 // 명령어의 opcode를 받아 opcode에 따른 control signal을 설정해줌
 
-
 module CONTROL
 (
 	input			CtrlSrc		,		// Flush signal
